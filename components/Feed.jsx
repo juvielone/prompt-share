@@ -1,5 +1,7 @@
 import React from "react";
 
-export const Feed = () => {
+const Feed = () => {
   return <div>Feed</div>;
 };
+
+export default Feed;
